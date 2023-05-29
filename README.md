@@ -1,18 +1,16 @@
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<br>
 
-开始时间：2023.05
-
-结束时间：
-
-项目说明：
-
-独立小键盘，7个独立按键，热插拔机械键轴，代码写入按键功能，同时也支持上位机改写各按键的功能。
-
-项目文件夹目录
+**开始时间：** 2023.05 <br>
+**结束时间：**  <br>
+**项目说明：**  <br>
+独立小键盘，7个独立按键，热插拔机械键轴，代码写入按键功能，同时也支持上位机改写各按键的功能。 <br>
 
 ```
+|--项目文件夹目录
+|--
 |--01_Electric:		线路板设计文件
 |--02_Code_Program:	嵌入式代码
 |--03_Structural:	结构/壳体设计
@@ -24,4 +22,4 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 |--README.TXT:		项目说明文件
 ```
 
-项目说明：
+**项目说明：** <br>
