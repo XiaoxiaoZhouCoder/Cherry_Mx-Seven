@@ -20,7 +20,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 |--06_Release:          项目发布文件
 |--07_XXX.XX:           其它常用文件
 |--
-|--README.TXT:项目说明文件
+|--README.TXT:          项目说明文件
 ```
 
 **项目说明：** <br>
